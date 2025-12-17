@@ -1,0 +1,12 @@
+how to deploy?
+New Terminal -> "Streamlit run app.py" will get localhost link
+
+Library?
+opencv-python
+pandas
+numpy
+scikit-learn
+tensorflow
+streamlit
+pillow
+tf-keras
